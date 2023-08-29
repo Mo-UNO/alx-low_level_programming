@@ -2,7 +2,7 @@
 #define MAIN_H
 
 int _putchar(char c);
-char *_memset(char *s, char b,unsigned iint n);
+char *_memset(char *s, char b,unsigned int n);
 char *_memcpy(char *dest, char *src, unsigned int n);
 char *_strchr(char *S, char *s, char c);
 unsigned int _strspn(char *, char *accept);
