@@ -12,6 +12,7 @@
 char *_strpbrk(char *s, char *accept)
 {
 	unsigned int iteration, je;
+	char *x;
 
 	iteration = 0;
 
